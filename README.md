@@ -5,4 +5,4 @@ I'm currently working on PHILOSOPHERS! <br>
 You can find me on slack (keuclide) or send me an email : lionariman@gmail.com
 </p>
 
-[![keuclide's 42 stats](https://badge42.herokuapp.com/api/stats/keuclide?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/keuclide)](https://github.com/JaeSeoKim/badge42)
