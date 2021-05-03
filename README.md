@@ -3,4 +3,6 @@
 Here you can find the projets that I do at Ecole 42 (school 21). <br>
 I'm currently working on PHILOSOPHERS! <br>
 You can find me on slack (keuclide) or send me an email : lionariman@gmail.com
-</p> 
+</p>
+
+[![keuclide's 42 stats](https://badge42.herokuapp.com/api/stats/keuclide?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
