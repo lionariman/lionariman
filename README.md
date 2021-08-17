@@ -1,3 +1,3 @@
 Ecole 42 (school 21) student. <br>
-I'm currently learning CPP (C++ modules)! <br>
+I'm currently working on Containers (STL library) <br>
 Email : lionariman@gmail.com
