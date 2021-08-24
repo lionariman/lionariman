@@ -1,3 +1,3 @@
-Ecole 42 (school 21) student. <br>
-I'm currently working on Containers (STL library) <br>
+Ecole 42 (school 21) student. 
+I'm currently working on Containers (STL library). 
 Email : lionariman@gmail.com
