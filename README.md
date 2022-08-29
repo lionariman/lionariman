@@ -1,2 +1,2 @@
-Ecole 42 (school 21) student.<br>
+Frontend dev.<br>
 Email : lionariman@gmail.com.
