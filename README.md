@@ -1,2 +1,2 @@
-Frontend dev.<br>
+Java backend developer
 Email : lionariman@gmail.com.
