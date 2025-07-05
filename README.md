@@ -1,2 +1,2 @@
-Java backend developer
+Backend developer
 Email : lionariman@gmail.com.
